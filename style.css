@@ -3,7 +3,7 @@ h1{
 }
 body{
     background-color: deepskyblue;
-    background-image: ;
+    background-image: url("https://www.deviantart.com/backgrounds4you/art/One-Piece-Background-124-575582962");
 }
 canvas{
     background-color: bisque;
@@ -13,4 +13,11 @@ canvas{
     height: 85vh;
     margin-left: auto;
     margin-right: auto;
+}
+h3{
+    text-align: right;
+    padding-right: 100px;
+}
+h2{
+    text-align: center;
 }
