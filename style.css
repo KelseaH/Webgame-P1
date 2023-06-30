@@ -9,8 +9,8 @@ canvas{
     background-color: bisque;
     border: 8px solid black;
     display: block;
-    width: 90vw;
-    height: 85vh;
+    width: 50em;
+    height: 50em;
     margin-left: auto;
     margin-right: auto;
 }
